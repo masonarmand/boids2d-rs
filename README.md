@@ -1,6 +1,6 @@
 
 # boids2d-rs
-Boids flocking simulation written in rust.
+Boids flocking simulation written in rust. This is my first rust project.
 
 <img src='https://raw.githubusercontent.com/masonarmand/boids2d-rs/main/boids.gif'>
 
