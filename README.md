@@ -17,5 +17,5 @@ cargo build
 ```
 
 ## Optimization
-Currently the simulation runs at O(n^2), since each boid has to loop through every other boid to calculate its velocity.
+Currently the simulation scales to O(n^2), since each boid has to loop through every other boid to calculate its velocity.
 This could be optimized with spatial hashing which would get the simulation closer to O(n).
